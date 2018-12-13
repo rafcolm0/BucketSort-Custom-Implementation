@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">People Here</string>
+    <string name="no_visitors">No Visitors</string>
+    <string name="timestamp">%1$s - %2$s</string>
+    <string name="person_time_example">12:00AM - 12:00PM</string>
+    <string name="person_name_example">Person</string>
+</resources>

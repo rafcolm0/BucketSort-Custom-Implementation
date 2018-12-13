@@ -1,0 +1,58 @@
+{
+  "venue": {
+    "id": 123456,
+    "name": "Foursquare HQ",
+    "openTime": 1479798000000,
+    "closeTime": 1479864600000,
+    "visitors": [
+      {
+        "id": 1,
+        "name": "Dave",
+        "arriveTime": 1479805200000,
+        "leaveTime": 1479816000000
+      },
+      {
+        "id": 2,
+        "name": "Elizabeth",
+        "arriveTime": 1479801600000,
+        "leaveTime": 1479819600000
+      },
+      {
+        "id": 3,
+        "name": "Ben",
+        "arriveTime": 1479826800000,
+        "leaveTime": 1479830400000
+      },
+      {
+        "id": 4,
+        "name": "Nathan",
+        "arriveTime": 1479834000000,
+        "leaveTime": 1479834900000
+      },
+      {
+        "id": 5,
+        "name": "Tom",
+        "arriveTime": 1479823200000,
+        "leaveTime": 1479830400000
+      },
+      {
+        "id": 6,
+        "name": "Matt",
+        "arriveTime": 1479819600000,
+        "leaveTime": 1479825000000
+      },
+      {
+        "id": 7,
+        "name": "Kyle",
+        "arriveTime": 1479801600000,
+        "leaveTime": 1479803400000
+      },
+      {
+        "id": 8,
+        "name": "Danny",
+        "arriveTime": 1479823200000,
+        "leaveTime": 1479832200000
+      }
+    ]
+  }
+}
