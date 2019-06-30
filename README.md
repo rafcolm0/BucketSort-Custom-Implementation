@@ -1,5 +1,5 @@
 # BucketSort-Custom-Implementation
-
+* Developer: Rafael J. Colon
 Custom implementation for the BucketSort ordering algorithm I submitted as an Android development assesment test.  
 
 ## Notes:
